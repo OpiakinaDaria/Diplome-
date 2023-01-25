@@ -1,0 +1,1 @@
+SELECT COUNT(id) FROM payment_entity WHERE status = 'APPROVED'
