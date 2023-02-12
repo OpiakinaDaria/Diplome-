@@ -1,2 +1,5 @@
 .DS_Store
 .data
+.node-modules
+Data
+data directory
